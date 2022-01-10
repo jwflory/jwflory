@@ -6,10 +6,6 @@ My name is Justin (pronouns: _he/him_) and I am a creative maker.
 I am best known as an open source contributor and Free Culture advocate originally from the United States.
 I have participated in numerous open source communities and led different initiatives to build sustainable software and communities for nearly ten years.
 
-<div align="center">
-  <img src="https://mirror.jwf.io/pub/images/namaste.png" height="150px">
-</div>
-
 In June 2020, I joined the [UNICEF Office of Innovation](https://www.unicef.org/innovation/) as their **Open Source Technical Advisor**.
 There, I support the [UNICEF Venture Fund](https://www.unicefinnovationfund.org/) and other open source activities within the Office of Innovation.
 I support and mentor cohorts of diverse start-up companies from five continents.
